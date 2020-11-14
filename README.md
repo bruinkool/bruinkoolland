@@ -1,2 +1,3 @@
-# bruinkoolland
-All purpose application for sharing recipes and quotes
+# Bruinkoolland
+
+Bruinkoolland is an all-purpose application for sharing recipes and quotes in development.
